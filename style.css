@@ -4,10 +4,10 @@
     --a:0;
  }
  /* background-color: black; */
-.body{
+body{
     background-color: black;
     color: white;
-    margin: -100px;
+    height:100px;
    
     
 }
@@ -192,6 +192,7 @@
     border-radius: 10px;
     width: 70vw;
     padding: 10px;
+    botttom:31px;
 }
 
 .songbutton {
